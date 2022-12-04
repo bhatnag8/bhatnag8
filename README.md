@@ -1,7 +1,7 @@
 ![Header](https://i.ibb.co/YBsy1LW/github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Arryan Bhatnagar</h1>
-<h3 align="center">Junior @ Purdue University</h3>
+<h1 align="center">Hi, I'm Arryan Bhatnagar 👋</h1>
+<h3 align="center">3rd Year Student at Purdue University</h3>
 
 - 🔭 I’m currently working on [Spacefy](https://github.com/bhatnag8/SpacefyAR)
 
