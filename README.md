@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Spacefy](https://github.com/bhatnag8/SpacefyAR)
 
-- 🌱 I’m currently learning **C/C++ and Java**
+- 🌱 I’m currently learning **Data Structures in C**
 
 - 📫 University Email **bhatnag8@purdue.edu**
 - 📫 Personal Email **arryan.qwe@gmail.com**
