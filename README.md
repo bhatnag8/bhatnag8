@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Arryan Bhatnagar 👋</h1>
 <h3 align="center">Junior | Purdue University | Computer Engineering</h3>
 
-- 🔭 I’m currently working on [Spacefy](https://github.com/bhatnag8/SpacefyAR)
+- 🔭 I’m currently working on [Cosmofy](https://github.com/bhatnag8/SpacefyAR)
 
 - 🌱 I’m currently learning **Data Structures in C**
 
