@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cosmofy](https://github.com/bhatnag8/Cosmofy)
 
-- 🌱 I’m going to learn **Microprocessor Systems And Interfacing, Software Engineering, Introduction To Computer Communication Networks**
+- 🌱 I’m going to learn **Software Engineering, Computer Communication Networks**
 
 - 📫 University Email **bhatnag8@purdue.edu**
 - 📫 Personal Email **arryan.qwe@gmail.com**
