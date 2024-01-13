@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cosmofy](https://github.com/bhatnag8/Cosmofy)
 
-- 🌱 Currently Learning: **Advanced Software Engineering, Operating Systems, and Golf ⛳️😂**
+- 🌱 Currently Learning: **Advanced Software Engineering, Open-Source Software Senior Design, and Computer Security**
 
 - 📫 University Email **bhatnag8@purdue.edu**
 - 📫 Personal Email **arryan.qwe@gmail.com**
